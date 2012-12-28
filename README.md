@@ -6,7 +6,7 @@ Here you can find some tiny projects that I created just to find my way in RubyM
 
 These projects are currently available:
 
-- (Core Data with Nitron 0.3)[https://github.com/fousa/rubymotion-examples/tree/master/core-data-with-nitron]
+- [Core Data with Nitron 0.3](https://github.com/fousa/rubymotion-examples/tree/master/core-data-with-nitron)
 
 ## License
 
