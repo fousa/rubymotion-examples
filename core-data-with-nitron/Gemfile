@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'rake'
+gem 'nitron', :git => "git://github.com/mattgreen/nitron.git", :branch => "0.3"
+gem 'nokogiri'

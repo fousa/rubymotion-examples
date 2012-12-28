@@ -1,0 +1,20 @@
+GIT
+  remote: git://github.com/mattgreen/nitron.git
+  revision: eb1da23f27a9f7f81d72542b16236121beaa994c
+  branch: 0.3
+  specs:
+    nitron (0.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    nokogiri (1.5.6)
+    rake (10.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nitron!
+  nokogiri
+  rake
